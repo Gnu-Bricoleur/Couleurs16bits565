@@ -1,0 +1,424 @@
+{|class="wikitable"
+|-
+!scope="col"| Nom(s) de couleur
+!scope="col"| Échantillon
+!scope="col"| RGB (hex)
+!scope="col"| RGB (décimal)
+!scope="col"| HSL (° et %)
+!scope="col"| HSV (° et %)
+!scope="col"| CMYK (%)
+|-
+! black 
+|style="background:#000"| &nbsp; || <code>#000</code> || rgb(0, 0, 0) || hsl(0, 0%, 0%) || hsv(0, 0%, 0%) || cmyk(0%, 0%, 0%, 100%)
+|-
+! dimgray,  dimgrey 
+|style="background:#696969"| &nbsp; || <code>#696969</code> || rgb(105, 105, 105) || hsl(0, 0%, 41.2%) || hsv(0, 0%, 41.2%) || cmyk(0%, 0%, 0%, 58.8%)
+|-
+! gray,  grey 
+|style="background:#808080"| &nbsp; || <code>#808080</code> || rgb(128, 128, 128) || hsl(0, 0%, 50.2%) || hsv(0, 0%, 50.2%) || cmyk(0%, 0%, 0%, 49.8%)
+|-
+! darkgray,  darkgrey 
+|style="background:#A9A9A9"| &nbsp; || <code>#A9A9A9</code> || rgb(169, 169, 169) || hsl(0, 0%, 66.3%) || hsv(0, 0%, 66.3%) || cmyk(0%, 0%, 0%, 33.7%)
+|-
+! silver 
+|style="background:#C0C0C0"| &nbsp; || <code>#C0C0C0</code> || rgb(192, 192, 192) || hsl(0, 0%, 75.3%) || hsv(0, 0%, 75.3%) || cmyk(0%, 0%, 0%, 24.7%)
+|-
+! lightgray,  lightgrey 
+|style="background:#D3D3D3"| &nbsp; || <code>#D3D3D3</code> || rgb(211, 211, 211) || hsl(0, 0%, 82.7%) || hsv(0, 0%, 82.7%) || cmyk(0%, 0%, 0%, 17.3%)
+|-
+! gainsboro 
+|style="background:#DCDCDC"| &nbsp; || <code>#DCDCDC</code> || rgb(220, 220, 220) || hsl(0, 0%, 86.3%) || hsv(0, 0%, 86.3%) || cmyk(0%, 0%, 0%, 13.7%)
+|-
+! whitesmoke 
+|style="background:#F5F5F5"| &nbsp; || <code>#F5F5F5</code> || rgb(245, 245, 245) || hsl(0, 0%, 96.1%) || hsv(0, 0%, 96.1%) || cmyk(0%, 0%, 0%, 3.9%)
+|-
+! white 
+|style="background:#FFF"| &nbsp; || <code>#FFF</code> || rgb(255, 255, 255) || hsl(0, 0%, 100%) || hsv(0, 0%, 100%) || cmyk(0%, 0%, 0%, 0%)
+|-
+! maroon 
+|style="background:#800000"| &nbsp; || <code>#800000</code> || rgb(128, 0, 0) || hsl(0, 100%, 25.1%) || hsv(0, 100%, 50.2%) || cmyk(0%, 100%, 100%, 49.8%)
+|-
+! darkred 
+|style="background:#8B0000"| &nbsp; || <code>#8B0000</code> || rgb(139, 0, 0) || hsl(0, 100%, 27.3%) || hsv(0, 100%, 54.5%) || cmyk(0%, 100%, 100%, 45.5%)
+|-
+! red 
+|style="background:#F00"| &nbsp; || <code>#F00</code> || rgb(255, 0, 0) || hsl(0, 100%, 50%) || hsv(0, 100%, 100%) || cmyk(0%, 100%, 100%, 0%)
+|-
+! firebrick 
+|style="background:#B22222"| &nbsp; || <code>#B22222</code> || rgb(178, 34, 34) || hsl(0, 67.9%, 41.6%) || hsv(0, 80.9%, 69.8%) || cmyk(0%, 80.9%, 80.9%, 30.2%)
+|-
+! brown 
+|style="background:#A52A2A"| &nbsp; || <code>#A52A2A</code> || rgb(165, 42, 42) || hsl(0, 59.4%, 40.6%) || hsv(0, 74.5%, 64.7%) || cmyk(0%, 74.5%, 74.5%, 35.3%)
+|-
+! indianred 
+|style="background:#CD5C5C"| &nbsp; || <code>#CD5C5C</code> || rgb(205, 92, 92) || hsl(0, 53.1%, 58.2%) || hsv(0, 55.1%, 80.4%) || cmyk(0%, 55.1%, 55.1%, 19.6%)
+|-
+! lightcoral 
+|style="background:#F08080"| &nbsp; || <code>#F08080</code> || rgb(240, 128, 128) || hsl(0, 78.9%, 72.2%) || hsv(0, 46.7%, 94.1%) || cmyk(0%, 46.7%, 46.7%, 5.9%)
+|-
+! rosybrown 
+|style="background:#BC8F8F"| &nbsp; || <code>#BC8F8F</code> || rgb(188, 143, 143) || hsl(0, 25.1%, 64.9%) || hsv(0, 23.9%, 73.7%) || cmyk(0%, 23.9%, 23.9%, 26.3%)
+|-
+! snow 
+|style="background:#FFFAFA"| &nbsp; || <code>#FFFAFA</code> || rgb(255, 250, 250) || hsl(0, 100%, 99%) || hsv(0, 2%, 100%) || cmyk(0%, 2%, 2%, 0%)
+|-
+! mistyrose 
+|style="background:#FFE4E1"| &nbsp; || <code>#FFE4E1</code> || rgb(255, 228, 225) || hsl(6, 100%, 94.1%) || hsv(6, 11.8%, 100%) || cmyk(0%, 10.6%, 11.8%, 0%)
+|-
+! salmon 
+|style="background:#FA8072"| &nbsp; || <code>#FA8072</code> || rgb(250, 128, 114) || hsl(6.2, 93.2%, 71.4%) || hsv(6.2, 54.4%, 98%) || cmyk(0%, 48.8%, 54.4%, 2%)
+|-
+! tomato 
+|style="background:#FF6347"| &nbsp; || <code>#FF6347</code> || rgb(255, 99, 71) || hsl(9.1, 100%, 63.9%) || hsv(9.1, 72.2%, 100%) || cmyk(0%, 61.2%, 72.2%, 0%)
+|-
+! darksalmon 
+|style="background:#E9967A"| &nbsp; || <code>#E9967A</code> || rgb(233, 150, 122) || hsl(15.1, 71.6%, 69.6%) || hsv(15.1, 47.6%, 91.4%) || cmyk(0%, 35.6%, 47.6%, 8.6%)
+|-
+! coral 
+|style="background:#FF7F50"| &nbsp; || <code>#FF7F50</code> || rgb(255, 127, 80) || hsl(16.1, 100%, 65.7%) || hsv(16.1, 68.6%, 100%) || cmyk(0%, 50.2%, 68.6%, 0%)
+|-
+! orangered 
+|style="background:#FF4500"| &nbsp; || <code>#FF4500</code> || rgb(255, 69, 0) || hsl(16.2, 100%, 50%) || hsv(16.2, 100%, 100%) || cmyk(0%, 72.9%, 100%, 0%)
+|-
+! lightsalmon 
+|style="background:#FFA07A"| &nbsp; || <code>#FFA07A</code> || rgb(255, 160, 122) || hsl(17.1, 100%, 73.9%) || hsv(17.1, 52.2%, 100%) || cmyk(0%, 37.3%, 52.2%, 0%)
+|-
+! sienna 
+|style="background:#A0522D"| &nbsp; || <code>#A0522D</code> || rgb(160, 82, 45) || hsl(19.3, 56.1%, 40.2%) || hsv(19.3, 71.9%, 62.7%) || cmyk(0%, 48.8%, 71.9%, 37.3%)
+|-
+! seashell 
+|style="background:#FFF5EE"| &nbsp; || <code>#FFF5EE</code> || rgb(255, 245, 238) || hsl(24.7, 100%, 96.7%) || hsv(24.7, 6.7%, 100%) || cmyk(0%, 3.9%, 6.7%, 0%)
+|-
+! saddlebrown 
+|style="background:#8B4513"| &nbsp; || <code>#8B4513</code> || rgb(139, 69, 19) || hsl(25, 75.9%, 31%) || hsv(25, 86.3%, 54.5%) || cmyk(0%, 50.4%, 86.3%, 45.5%)
+|-
+! chocolate 
+|style="background:#D2691E"| &nbsp; || <code>#D2691E</code> || rgb(210, 105, 30) || hsl(25, 75%, 47.1%) || hsv(25, 85.7%, 82.4%) || cmyk(0%, 50%, 85.7%, 17.6%)
+|-
+! sandybrown 
+|style="background:#F4A460"| &nbsp; || <code>#F4A460</code> || rgb(244, 164, 96) || hsl(27.6, 87.1%, 66.7%) || hsv(27.6, 60.7%, 95.7%) || cmyk(0%, 32.8%, 60.7%, 4.3%)
+|-
+! peachpuff 
+|style="background:#FFDAB9"| &nbsp; || <code>#FFDAB9</code> || rgb(255, 218, 185) || hsl(28.3, 100%, 86.3%) || hsv(28.3, 27.5%, 100%) || cmyk(0%, 14.5%, 27.5%, 0%)
+|-
+! peru 
+|style="background:#CD853F"| &nbsp; || <code>#CD853F</code> || rgb(205, 133, 63) || hsl(29.6, 58.7%, 52.5%) || hsv(29.6, 69.3%, 80.4%) || cmyk(0%, 35.1%, 69.3%, 19.6%)
+|-
+! linen 
+|style="background:#FAF0E6"| &nbsp; || <code>#FAF0E6</code> || rgb(250, 240, 230) || hsl(30, 66.7%, 94.1%) || hsv(30, 8%, 98%) || cmyk(0%, 4%, 8%, 2%)
+|-
+! bisque 
+|style="background:#FFE4C4"| &nbsp; || <code>#FFE4C4</code> || rgb(255, 228, 196) || hsl(32.5, 100%, 88.4%) || hsv(32.5, 23.1%, 100%) || cmyk(0%, 10.6%, 23.1%, 0%)
+|-
+! darkorange 
+|style="background:#FF8C00"| &nbsp; || <code>#FF8C00</code> || rgb(255, 140, 0) || hsl(32.9, 100%, 50%) || hsv(32.9, 100%, 100%) || cmyk(0%, 45.1%, 100%, 0%)
+|-
+! burlywood 
+|style="background:#DEB887"| &nbsp; || <code>#DEB887</code> || rgb(222, 184, 135) || hsl(33.8, 56.9%, 70%) || hsv(33.8, 39.2%, 87.1%) || cmyk(0%, 17.1%, 39.2%, 12.9%)
+|-
+! tan 
+|style="background:#D2B48C"| &nbsp; || <code>#D2B48C</code> || rgb(210, 180, 140) || hsl(34.3, 43.8%, 68.6%) || hsv(34.3, 33.3%, 82.4%) || cmyk(0%, 14.3%, 33.3%, 17.6%)
+|-
+! antiquewhite 
+|style="background:#FAEBD7"| &nbsp; || <code>#FAEBD7</code> || rgb(250, 235, 215) || hsl(34.3, 77.8%, 91.2%) || hsv(34.3, 14%, 98%) || cmyk(0%, 6%, 14%, 2%)
+|-
+! navajowhite 
+|style="background:#FFDEAD"| &nbsp; || <code>#FFDEAD</code> || rgb(255, 222, 173) || hsl(35.9, 100%, 83.9%) || hsv(35.9, 32.2%, 100%) || cmyk(0%, 12.9%, 32.2%, 0%)
+|-
+! blanchedalmond 
+|style="background:#FFEBCD"| &nbsp; || <code>#FFEBCD</code> || rgb(255, 235, 205) || hsl(36, 100%, 90.2%) || hsv(36, 19.6%, 100%) || cmyk(0%, 7.8%, 19.6%, 0%)
+|-
+! papayawhip 
+|style="background:#FFEFD5"| &nbsp; || <code>#FFEFD5</code> || rgb(255, 239, 213) || hsl(37.1, 100%, 91.8%) || hsv(37.1, 16.5%, 100%) || cmyk(0%, 6.3%, 16.5%, 0%)
+|-
+! moccasin 
+|style="background:#FFE4B5"| &nbsp; || <code>#FFE4B5</code> || rgb(255, 228, 181) || hsl(38.1, 100%, 85.5%) || hsv(38.1, 29%, 100%) || cmyk(0%, 10.6%, 29%, 0%)
+|-
+! orange 
+|style="background:#FFA500"| &nbsp; || <code>#FFA500</code> || rgb(255, 165, 0) || hsl(38.8, 100%, 50%) || hsv(38.8, 100%, 100%) || cmyk(0%, 35.3%, 100%, 0%)
+|-
+! wheat 
+|style="background:#F5DEB3"| &nbsp; || <code>#F5DEB3</code> || rgb(245, 222, 179) || hsl(39.1, 76.7%, 83.1%) || hsv(39.1, 26.9%, 96.1%) || cmyk(0%, 9.4%, 26.9%, 3.9%)
+|-
+! oldlace 
+|style="background:#FDF5E6"| &nbsp; || <code>#FDF5E6</code> || rgb(253, 245, 230) || hsl(39.1, 85.2%, 94.7%) || hsv(39.1, 9.1%, 99.2%) || cmyk(0%, 3.2%, 9.1%, 0.8%)
+|-
+! floralwhite 
+|style="background:#FFFAF0"| &nbsp; || <code>#FFFAF0</code> || rgb(255, 250, 240) || hsl(40, 100%, 97.1%) || hsv(40, 5.9%, 100%) || cmyk(0%, 2%, 5.9%, 0%)
+|-
+! darkgoldenrod 
+|style="background:#B8860B"| &nbsp; || <code>#B8860B</code> || rgb(184, 134, 11) || hsl(42.7, 88.7%, 38.2%) || hsv(42.7, 94%, 72.2%) || cmyk(0%, 27.2%, 94%, 27.8%)
+|-
+! goldenrod 
+|style="background:#DAA520"| &nbsp; || <code>#DAA520</code> || rgb(218, 165, 32) || hsl(42.9, 74.4%, 49%) || hsv(42.9, 85.3%, 85.5%) || cmyk(0%, 24.3%, 85.3%, 14.5%)
+|-
+! cornsilk 
+|style="background:#FFF8DC"| &nbsp; || <code>#FFF8DC</code> || rgb(255, 248, 220) || hsl(48, 100%, 93.1%) || hsv(48, 13.7%, 100%) || cmyk(0%, 2.7%, 13.7%, 0%)
+|-
+! gold 
+|style="background:#FFD700"| &nbsp; || <code>#FFD700</code> || rgb(255, 215, 0) || hsl(50.6, 100%, 50%) || hsv(50.6, 100%, 100%) || cmyk(0%, 15.7%, 100%, 0%)
+|-
+! khaki 
+|style="background:#F0E68C"| &nbsp; || <code>#F0E68C</code> || rgb(240, 230, 140) || hsl(54, 76.9%, 74.5%) || hsv(54, 41.7%, 94.1%) || cmyk(0%, 4.2%, 41.7%, 5.9%)
+|-
+! lemonchiffon 
+|style="background:#FFFACD"| &nbsp; || <code>#FFFACD</code> || rgb(255, 250, 205) || hsl(54, 100%, 90.2%) || hsv(54, 19.6%, 100%) || cmyk(0%, 2%, 19.6%, 0%)
+|-
+! palegoldenrod 
+|style="background:#EEE8AA"| &nbsp; || <code>#EEE8AA</code> || rgb(238, 232, 170) || hsl(54.7, 66.7%, 80%) || hsv(54.7, 28.6%, 93.3%) || cmyk(0%, 2.5%, 28.6%, 6.7%)
+|-
+! darkkhaki 
+|style="background:#BDB76B"| &nbsp; || <code>#BDB76B</code> || rgb(189, 183, 107) || hsl(55.6, 38.3%, 58%) || hsv(55.6, 43.4%, 74.1%) || cmyk(0%, 3.2%, 43.4%, 25.9%)
+|-
+! olive 
+|style="background:#808000"| &nbsp; || <code>#808000</code> || rgb(128, 128, 0) || hsl(60, 100%, 25.1%) || hsv(60, 100%, 50.2%) || cmyk(0%, 0%, 100%, 49.8%)
+|-
+! yellow 
+|style="background:#FF0"| &nbsp; || <code>#FF0</code> || rgb(255, 255, 0) || hsl(60, 100%, 50%) || hsv(60, 100%, 100%) || cmyk(0%, 0%, 100%, 0%)
+|-
+! lightgoldenrodyellow 
+|style="background:#FAFAD2"| &nbsp; || <code>#FAFAD2</code> || rgb(250, 250, 210) || hsl(60, 80%, 90.2%) || hsv(60, 16%, 98%) || cmyk(0%, 0%, 16%, 2%)
+|-
+! lightyellow 
+|style="background:#FFFFE0"| &nbsp; || <code>#FFFFE0</code> || rgb(255, 255, 224) || hsl(60, 100%, 93.9%) || hsv(60, 12.2%, 100%) || cmyk(0%, 0%, 12.2%, 0%)
+|-
+! beige 
+|style="background:#F5F5DC"| &nbsp; || <code>#F5F5DC</code> || rgb(245, 245, 220) || hsl(60, 55.6%, 91.2%) || hsv(60, 10.2%, 96.1%) || cmyk(0%, 0%, 10.2%, 3.9%)
+|-
+! ivory 
+|style="background:#FFFFF0"| &nbsp; || <code>#FFFFF0</code> || rgb(255, 255, 240) || hsl(60, 100%, 97.1%) || hsv(60, 5.9%, 100%) || cmyk(0%, 0%, 5.9%, 0%)
+|-
+! olivedrab 
+|style="background:#6B8E23"| &nbsp; || <code>#6B8E23</code> || rgb(107, 142, 35) || hsl(79.6, 60.5%, 34.7%) || hsv(79.6, 75.4%, 55.7%) || cmyk(24.6%, 0%, 75.4%, 44.3%)
+|-
+! yellowgreen 
+|style="background:#9ACD32"| &nbsp; || <code>#9ACD32</code> || rgb(154, 205, 50) || hsl(79.7, 60.8%, 50%) || hsv(79.7, 75.6%, 80.4%) || cmyk(24.9%, 0%, 75.6%, 19.6%)
+|-
+! darkolivegreen 
+|style="background:#556B2F"| &nbsp; || <code>#556B2F</code> || rgb(85, 107, 47) || hsl(82, 39%, 30.2%) || hsv(82, 56.1%, 42%) || cmyk(20.6%, 0%, 56.1%, 58%)
+|-
+! greenyellow 
+|style="background:#ADFF2F"| &nbsp; || <code>#ADFF2F</code> || rgb(173, 255, 47) || hsl(83.7, 100%, 59.2%) || hsv(83.7, 81.6%, 100%) || cmyk(32.2%, 0%, 81.6%, 0%)
+|-
+! chartreuse 
+|style="background:#7FFF00"| &nbsp; || <code>#7FFF00</code> || rgb(127, 255, 0) || hsl(90.1, 100%, 50%) || hsv(90.1, 100%, 100%) || cmyk(50.2%, 0%, 100%, 0%)
+|-
+! lawngreen 
+|style="background:#7CFC00"| &nbsp; || <code>#7CFC00</code> || rgb(124, 252, 0) || hsl(90.5, 100%, 49.4%) || hsv(90.5, 100%, 98.8%) || cmyk(50.8%, 0%, 100%, 1.2%)
+|-
+! darkgreen 
+|style="background:#006400"| &nbsp; || <code>#006400</code> || rgb(0, 100, 0) || hsl(120, 100%, 19.6%) || hsv(120, 100%, 39.2%) || cmyk(100%, 0%, 100%, 60.8%)
+|-
+! green 
+|style="background:#008000"| &nbsp; || <code>#008000</code> || rgb(0, 128, 0) || hsl(120, 100%, 25.1%) || hsv(120, 100%, 50.2%) || cmyk(100%, 0%, 100%, 49.8%)
+|-
+! lime 
+|style="background:#0F0"| &nbsp; || <code>#0F0</code> || rgb(0, 255, 0) || hsl(120, 100%, 50%) || hsv(120, 100%, 100%) || cmyk(100%, 0%, 100%, 0%)
+|-
+! limegreen 
+|style="background:#32CD32"| &nbsp; || <code>#32CD32</code> || rgb(50, 205, 50) || hsl(120, 60.8%, 50%) || hsv(120, 75.6%, 80.4%) || cmyk(75.6%, 0%, 75.6%, 19.6%)
+|-
+! forestgreen 
+|style="background:#228B22"| &nbsp; || <code>#228B22</code> || rgb(34, 139, 34) || hsl(120, 60.7%, 33.9%) || hsv(120, 75.5%, 54.5%) || cmyk(75.5%, 0%, 75.5%, 45.5%)
+|-
+! lightgreen 
+|style="background:#90EE90"| &nbsp; || <code>#90EE90</code> || rgb(144, 238, 144) || hsl(120, 73.4%, 74.9%) || hsv(120, 39.5%, 93.3%) || cmyk(39.5%, 0%, 39.5%, 6.7%)
+|-
+! palegreen 
+|style="background:#98FB98"| &nbsp; || <code>#98FB98</code> || rgb(152, 251, 152) || hsl(120, 92.5%, 79%) || hsv(120, 39.4%, 98.4%) || cmyk(39.4%, 0%, 39.4%, 1.6%)
+|-
+! darkseagreen 
+|style="background:#8FBC8F"| &nbsp; || <code>#8FBC8F</code> || rgb(143, 188, 143) || hsl(120, 25.1%, 64.9%) || hsv(120, 23.9%, 73.7%) || cmyk(23.9%, 0%, 23.9%, 26.3%)
+|-
+! honeydew 
+|style="background:#F0FFF0"| &nbsp; || <code>#F0FFF0</code> || rgb(240, 255, 240) || hsl(120, 100%, 97.1%) || hsv(120, 5.9%, 100%) || cmyk(5.9%, 0%, 5.9%, 0%)
+|-
+! seagreen 
+|style="background:#2E8B57"| &nbsp; || <code>#2E8B57</code> || rgb(46, 139, 87) || hsl(146.5, 50.3%, 36.3%) || hsv(146.5, 66.9%, 54.5%) || cmyk(66.9%, 0%, 37.4%, 45.5%)
+|-
+! mediumseagreen 
+|style="background:#3CB371"| &nbsp; || <code>#3CB371</code> || rgb(60, 179, 113) || hsl(146.7, 49.8%, 46.9%) || hsv(146.7, 66.5%, 70.2%) || cmyk(66.5%, 0%, 36.9%, 29.8%)
+|-
+! springgreen 
+|style="background:#00FF7F"| &nbsp; || <code>#00FF7F</code> || rgb(0, 255, 127) || hsl(149.9, 100%, 50%) || hsv(149.9, 100%, 100%) || cmyk(100%, 0%, 50.2%, 0%)
+|-
+! mintcream 
+|style="background:#F5FFFA"| &nbsp; || <code>#F5FFFA</code> || rgb(245, 255, 250) || hsl(150, 100%, 98%) || hsv(150, 3.9%, 100%) || cmyk(3.9%, 0%, 2%, 0%)
+|-
+! mediumspringgreen 
+|style="background:#00FA9A"| &nbsp; || <code>#00FA9A</code> || rgb(0, 250, 154) || hsl(157, 100%, 49%) || hsv(157, 100%, 98%) || cmyk(100%, 0%, 38.4%, 2%)
+|-
+! mediumaquamarine 
+|style="background:#66CDAA"| &nbsp; || <code>#66CDAA</code> || rgb(102, 205, 170) || hsl(159.6, 50.7%, 60.2%) || hsv(159.6, 50.2%, 80.4%) || cmyk(50.2%, 0%, 17.1%, 19.6%)
+|-
+! aquamarine 
+|style="background:#7FFFD4"| &nbsp; || <code>#7FFFD4</code> || rgb(127, 255, 212) || hsl(159.8, 100%, 74.9%) || hsv(159.8, 50.2%, 100%) || cmyk(50.2%, 0%, 16.9%, 0%)
+|-
+! turquoise 
+|style="background:#40E0D0"| &nbsp; || <code>#40E0D0</code> || rgb(64, 224, 208) || hsl(174, 72.1%, 56.5%) || hsv(174, 71.4%, 87.8%) || cmyk(71.4%, 0%, 7.1%, 12.2%)
+|-
+! lightseagreen 
+|style="background:#20B2AA"| &nbsp; || <code>#20B2AA</code> || rgb(32, 178, 170) || hsl(176.7, 69.5%, 41.2%) || hsv(176.7, 82%, 69.8%) || cmyk(82%, 0%, 4.5%, 30.2%)
+|-
+! mediumturquoise 
+|style="background:#48D1CC"| &nbsp; || <code>#48D1CC</code> || rgb(72, 209, 204) || hsl(177.8, 59.8%, 55.1%) || hsv(177.8, 65.6%, 82%) || cmyk(65.6%, 0%, 2.4%, 18%)
+|-
+! teal 
+|style="background:#008080"| &nbsp; || <code>#008080</code> || rgb(0, 128, 128) || hsl(180, 100%, 25.1%) || hsv(180, 100%, 50.2%) || cmyk(100%, 0%, 0%, 49.8%)
+|-
+! darkcyan 
+|style="background:#008B8B"| &nbsp; || <code>#008B8B</code> || rgb(0, 139, 139) || hsl(180, 100%, 27.3%) || hsv(180, 100%, 54.5%) || cmyk(100%, 0%, 0%, 45.5%)
+|-
+! aqua,  cyan 
+|style="background:#0FF"| &nbsp; || <code>#0FF</code> || rgb(0, 255, 255) || hsl(180, 100%, 50%) || hsv(180, 100%, 100%) || cmyk(100%, 0%, 0%, 0%)
+|-
+! darkslategray,  darkslategrey 
+|style="background:#2F4F4F"| &nbsp; || <code>#2F4F4F</code> || rgb(47, 79, 79) || hsl(180, 25.4%, 24.7%) || hsv(180, 40.5%, 31%) || cmyk(40.5%, 0%, 0%, 69%)
+|-
+! paleturquoise 
+|style="background:#AFEEEE"| &nbsp; || <code>#AFEEEE</code> || rgb(175, 238, 238) || hsl(180, 64.9%, 81%) || hsv(180, 26.5%, 93.3%) || cmyk(26.5%, 0%, 0%, 6.7%)
+|-
+! lightcyan 
+|style="background:#E0FFFF"| &nbsp; || <code>#E0FFFF</code> || rgb(224, 255, 255) || hsl(180, 100%, 93.9%) || hsv(180, 12.2%, 100%) || cmyk(12.2%, 0%, 0%, 0%)
+|-
+! azure 
+|style="background:#F0FFFF"| &nbsp; || <code>#F0FFFF</code> || rgb(240, 255, 255) || hsl(180, 100%, 97.1%) || hsv(180, 5.9%, 100%) || cmyk(5.9%, 0%, 0%, 0%)
+|-
+! darkturquoise 
+|style="background:#00CED1"| &nbsp; || <code>#00CED1</code> || rgb(0, 206, 209) || hsl(180.9, 100%, 41%) || hsv(180.9, 100%, 82%) || cmyk(100%, 1.4%, 0%, 18%)
+|-
+! cadetblue 
+|style="background:#5F9EA0"| &nbsp; || <code>#5F9EA0</code> || rgb(95, 158, 160) || hsl(181.8, 25.5%, 50%) || hsv(181.8, 40.6%, 62.7%) || cmyk(40.6%, 1.3%, 0%, 37.3%)
+|-
+! powderblue 
+|style="background:#B0E0E6"| &nbsp; || <code>#B0E0E6</code> || rgb(176, 224, 230) || hsl(186.7, 51.9%, 79.6%) || hsv(186.7, 23.5%, 90.2%) || cmyk(23.5%, 2.6%, 0%, 9.8%)
+|-
+! lightblue 
+|style="background:#ADD8E6"| &nbsp; || <code>#ADD8E6</code> || rgb(173, 216, 230) || hsl(194.7, 53.3%, 79%) || hsv(194.7, 24.8%, 90.2%) || cmyk(24.8%, 6.1%, 0%, 9.8%)
+|-
+! deepskyblue 
+|style="background:#00BFFF"| &nbsp; || <code>#00BFFF</code> || rgb(0, 191, 255) || hsl(195.1, 100%, 50%) || hsv(195.1, 100%, 100%) || cmyk(100%, 25.1%, 0%, 0%)
+|-
+! skyblue 
+|style="background:#87CEEB"| &nbsp; || <code>#87CEEB</code> || rgb(135, 206, 235) || hsl(197.4, 71.4%, 72.5%) || hsv(197.4, 42.6%, 92.2%) || cmyk(42.6%, 12.3%, 0%, 7.8%)
+|-
+! lightskyblue 
+|style="background:#87CEFA"| &nbsp; || <code>#87CEFA</code> || rgb(135, 206, 250) || hsl(203, 92%, 75.5%) || hsv(203, 46%, 98%) || cmyk(46%, 17.6%, 0%, 2%)
+|-
+! steelblue 
+|style="background:#4682B4"| &nbsp; || <code>#4682B4</code> || rgb(70, 130, 180) || hsl(207.3, 44%, 49%) || hsv(207.3, 61.1%, 70.6%) || cmyk(61.1%, 27.8%, 0%, 29.4%)
+|-
+! aliceblue 
+|style="background:#F0F8FF"| &nbsp; || <code>#F0F8FF</code> || rgb(240, 248, 255) || hsl(208, 100%, 97.1%) || hsv(208, 5.9%, 100%) || cmyk(5.9%, 2.7%, 0%, 0%)
+|-
+! dodgerblue 
+|style="background:#1E90FF"| &nbsp; || <code>#1E90FF</code> || rgb(30, 144, 255) || hsl(209.6, 100%, 55.9%) || hsv(209.6, 88.2%, 100%) || cmyk(88.2%, 43.5%, 0%, 0%)
+|-
+! slategray,  slategrey 
+|style="background:#708090"| &nbsp; || <code>#708090</code> || rgb(112, 128, 144) || hsl(210, 12.6%, 50.2%) || hsv(210, 22.2%, 56.5%) || cmyk(22.2%, 11.1%, 0%, 43.5%)
+|-
+! lightslategray,  lightslategrey 
+|style="background:#789"| &nbsp; || <code>#789</code> || rgb(119, 136, 153) || hsl(210, 14.3%, 53.3%) || hsv(210, 22.2%, 60%) || cmyk(22.2%, 11.1%, 0%, 40%)
+|-
+! lightsteelblue 
+|style="background:#B0C4DE"| &nbsp; || <code>#B0C4DE</code> || rgb(176, 196, 222) || hsl(213.9, 41.1%, 78%) || hsv(213.9, 20.7%, 87.1%) || cmyk(20.7%, 11.7%, 0%, 12.9%)
+|-
+! cornflowerblue 
+|style="background:#6495ED"| &nbsp; || <code>#6495ED</code> || rgb(100, 149, 237) || hsl(218.5, 79.2%, 66.1%) || hsv(218.5, 57.8%, 92.9%) || cmyk(57.8%, 37.1%, 0%, 7.1%)
+|-
+! royalblue 
+|style="background:#4169E1"| &nbsp; || <code>#4169E1</code> || rgb(65, 105, 225) || hsl(225, 72.7%, 56.9%) || hsv(225, 71.1%, 88.2%) || cmyk(71.1%, 53.3%, 0%, 11.8%)
+|-
+! navy 
+|style="background:#000080"| &nbsp; || <code>#000080</code> || rgb(0, 0, 128) || hsl(240, 100%, 25.1%) || hsv(240, 100%, 50.2%) || cmyk(100%, 100%, 0%, 49.8%)
+|-
+! darkblue 
+|style="background:#00008B"| &nbsp; || <code>#00008B</code> || rgb(0, 0, 139) || hsl(240, 100%, 27.3%) || hsv(240, 100%, 54.5%) || cmyk(100%, 100%, 0%, 45.5%)
+|-
+! mediumblue 
+|style="background:#0000CD"| &nbsp; || <code>#0000CD</code> || rgb(0, 0, 205) || hsl(240, 100%, 40.2%) || hsv(240, 100%, 80.4%) || cmyk(100%, 100%, 0%, 19.6%)
+|-
+! blue 
+|style="background:#00F"| &nbsp; || <code>#00F</code> || rgb(0, 0, 255) || hsl(240, 100%, 50%) || hsv(240, 100%, 100%) || cmyk(100%, 100%, 0%, 0%)
+|-
+! midnightblue 
+|style="background:#191970"| &nbsp; || <code>#191970</code> || rgb(25, 25, 112) || hsl(240, 63.5%, 26.9%) || hsv(240, 77.7%, 43.9%) || cmyk(77.7%, 77.7%, 0%, 56.1%)
+|-
+! lavender 
+|style="background:#E6E6FA"| &nbsp; || <code>#E6E6FA</code> || rgb(230, 230, 250) || hsl(240, 66.7%, 94.1%) || hsv(240, 8%, 98%) || cmyk(8%, 8%, 0%, 2%)
+|-
+! ghostwhite 
+|style="background:#F8F8FF"| &nbsp; || <code>#F8F8FF</code> || rgb(248, 248, 255) || hsl(240, 100%, 98.6%) || hsv(240, 2.7%, 100%) || cmyk(2.7%, 2.7%, 0%, 0%)
+|-
+! slateblue 
+|style="background:#6A5ACD"| &nbsp; || <code>#6A5ACD</code> || rgb(106, 90, 205) || hsl(248.3, 53.5%, 57.8%) || hsv(248.3, 56.1%, 80.4%) || cmyk(48.3%, 56.1%, 0%, 19.6%)
+|-
+! mediumslateblue 
+|style="background:#7B68EE"| &nbsp; || <code>#7B68EE</code> || rgb(123, 104, 238) || hsl(248.5, 79.8%, 67.1%) || hsv(248.5, 56.3%, 93.3%) || cmyk(48.3%, 56.3%, 0%, 6.7%)
+|-
+! darkslateblue 
+|style="background:#483D8B"| &nbsp; || <code>#483D8B</code> || rgb(72, 61, 139) || hsl(248.5, 39%, 39.2%) || hsv(248.5, 56.1%, 54.5%) || cmyk(48.2%, 56.1%, 0%, 45.5%)
+|-
+! mediumpurple 
+|style="background:#9370DB"| &nbsp; || <code>#9370DB</code> || rgb(147, 112, 219) || hsl(259.6, 59.8%, 64.9%) || hsv(259.6, 48.9%, 85.9%) || cmyk(32.9%, 48.9%, 0%, 14.1%)
+|-
+! blueviolet 
+|style="background:#8A2BE2"| &nbsp; || <code>#8A2BE2</code> || rgb(138, 43, 226) || hsl(271.1, 75.9%, 52.7%) || hsv(271.1, 81%, 88.6%) || cmyk(38.9%, 81%, 0%, 11.4%)
+|-
+! indigo 
+|style="background:#4B0082"| &nbsp; || <code>#4B0082</code> || rgb(75, 0, 130) || hsl(274.6, 100%, 25.5%) || hsv(274.6, 100%, 51%) || cmyk(42.3%, 100%, 0%, 49%)
+|-
+! darkorchid 
+|style="background:#9932CC"| &nbsp; || <code>#9932CC</code> || rgb(153, 50, 204) || hsl(280.1, 60.6%, 49.8%) || hsv(280.1, 75.5%, 80%) || cmyk(25%, 75.5%, 0%, 20%)
+|-
+! darkviolet 
+|style="background:#9400D3"| &nbsp; || <code>#9400D3</code> || rgb(148, 0, 211) || hsl(282.1, 100%, 41.4%) || hsv(282.1, 100%, 82.7%) || cmyk(29.9%, 100%, 0%, 17.3%)
+|-
+! mediumorchid 
+|style="background:#BA55D3"| &nbsp; || <code>#BA55D3</code> || rgb(186, 85, 211) || hsl(288.1, 58.9%, 58%) || hsv(288.1, 59.7%, 82.7%) || cmyk(11.8%, 59.7%, 0%, 17.3%)
+|-
+! purple 
+|style="background:#800080"| &nbsp; || <code>#800080</code> || rgb(128, 0, 128) || hsl(300, 100%, 25.1%) || hsv(300, 100%, 50.2%) || cmyk(0%, 100%, 0%, 49.8%)
+|-
+! darkmagenta 
+|style="background:#8B008B"| &nbsp; || <code>#8B008B</code> || rgb(139, 0, 139) || hsl(300, 100%, 27.3%) || hsv(300, 100%, 54.5%) || cmyk(0%, 100%, 0%, 45.5%)
+|-
+! fuchsia,  magenta 
+|style="background:#F0F"| &nbsp; || <code>#F0F</code> || rgb(255, 0, 255) || hsl(300, 100%, 50%) || hsv(300, 100%, 100%) || cmyk(0%, 100%, 0%, 0%)
+|-
+! violet 
+|style="background:#EE82EE"| &nbsp; || <code>#EE82EE</code> || rgb(238, 130, 238) || hsl(300, 76.1%, 72.2%) || hsv(300, 45.4%, 93.3%) || cmyk(0%, 45.4%, 0%, 6.7%)
+|-
+! plum 
+|style="background:#DDA0DD"| &nbsp; || <code>#DDA0DD</code> || rgb(221, 160, 221) || hsl(300, 47.3%, 74.7%) || hsv(300, 27.6%, 86.7%) || cmyk(0%, 27.6%, 0%, 13.3%)
+|-
+! thistle 
+|style="background:#D8BFD8"| &nbsp; || <code>#D8BFD8</code> || rgb(216, 191, 216) || hsl(300, 24.3%, 79.8%) || hsv(300, 11.6%, 84.7%) || cmyk(0%, 11.6%, 0%, 15.3%)
+|-
+! orchid 
+|style="background:#DA70D6"| &nbsp; || <code>#DA70D6</code> || rgb(218, 112, 214) || hsl(302.3, 58.9%, 64.7%) || hsv(302.3, 48.6%, 85.5%) || cmyk(0%, 48.6%, 1.8%, 14.5%)
+|-
+! mediumvioletred 
+|style="background:#C71585"| &nbsp; || <code>#C71585</code> || rgb(199, 21, 133) || hsl(322.2, 80.9%, 43.1%) || hsv(322.2, 89.4%, 78%) || cmyk(0%, 89.4%, 33.2%, 22%)
+|-
+! deeppink 
+|style="background:#FF1493"| &nbsp; || <code>#FF1493</code> || rgb(255, 20, 147) || hsl(327.6, 100%, 53.9%) || hsv(327.6, 92.2%, 100%) || cmyk(0%, 92.2%, 42.4%, 0%)
+|-
+! hotpink 
+|style="background:#FF69B4"| &nbsp; || <code>#FF69B4</code> || rgb(255, 105, 180) || hsl(330, 100%, 70.6%) || hsv(330, 58.8%, 100%) || cmyk(0%, 58.8%, 29.4%, 0%)
+|-
+! lavenderblush 
+|style="background:#FFF0F5"| &nbsp; || <code>#FFF0F5</code> || rgb(255, 240, 245) || hsl(340, 100%, 97.1%) || hsv(340, 5.9%, 100%) || cmyk(0%, 5.9%, 3.9%, 0%)
+|-
+! palevioletred 
+|style="background:#DB7093"| &nbsp; || <code>#DB7093</code> || rgb(219, 112, 147) || hsl(340.4, 59.8%, 64.9%) || hsv(340.4, 48.9%, 85.9%) || cmyk(0%, 48.9%, 32.9%, 14.1%)
+|-
+! crimson 
+|style="background:#DC143C"| &nbsp; || <code>#DC143C</code> || rgb(220, 20, 60) || hsl(348, 83.3%, 47.1%) || hsv(348, 90.9%, 86.3%) || cmyk(0%, 90.9%, 72.7%, 13.7%)
+|-
+! pink 
+|style="background:#FFC0CB"| &nbsp; || <code>#FFC0CB</code> || rgb(255, 192, 203) || hsl(349.5, 100%, 87.6%) || hsv(349.5, 24.7%, 100%) || cmyk(0%, 24.7%, 20.4%, 0%)
+|-
+! lightpink 
+|style="background:#FFB6C1"| &nbsp; || <code>#FFB6C1</code> || rgb(255, 182, 193) || hsl(351, 100%, 85.7%) || hsv(351, 28.6%, 100%) || cmyk(0%, 28.6%, 24.3%, 0%)
+|}
