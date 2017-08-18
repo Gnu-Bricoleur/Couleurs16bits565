@@ -1,3 +1,6 @@
+#Auteur : Le Gnu-Bricoleur
+#Site internet : http://www.gnu-bricoleur.net/index.php?article6/ecran-lcd-opensmart-et-couleurs-16-bits-565
+#Parser le code Wikipedia : https://fr.wikipedia.org/wiki/Couleur_du_Web
 
 fichier = open("wiki", "r")
 toutesleslignes = fichier.readlines()
@@ -29,7 +32,7 @@ for ligne in toutesleslignes[9:]:
 fichier.close()
 print listecouleurs
 
-
+# Convertir les couleurs en 16 bits 565
 
 for elt in listergb:
 	num = elt[4:]
@@ -42,12 +45,12 @@ for elt in listergb:
 
 
 for i in range(len(lister)):
-	r = lister[i]
-	g = listeg[i]
-	b = listeb[i]
-	r = 255 - int(r)
-	b = 255 - int(b)
-	g = 255 - int(g)
+	r = int(lister[i])
+	g = int(listeg[i])
+	b = int(listeb[i])
+	#r = 255 - int(r)
+	#b = 255 - int(b)
+	#g = 255 - int(g)
 
 	#r = bin(r%32)[2:].zfill(5)
 	#g = bin(g%64)[2:].zfill(6)
